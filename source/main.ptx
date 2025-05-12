@@ -12,7 +12,7 @@
   <article xml:id="shorttitlelowercase">
     <title>The title of my groundbreaking paper</title>
 
-    <xi:include href="./frontmatter.ptx" />
+    <xi:include href="./funname.ptx" />
     
     <xi:include href="./introduction.ptx" />
     <xi:include href="./section-1.ptx" />
