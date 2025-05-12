@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1",
   "title": "My First Section",
-  "body": " My First Section   Some words    My First Subsection  Some more words  foo   A frog   A nice-looking frog with a longish description.    Bar:   "
+  "body": " My First Section   Some words    My First Subsection  Text of Section.  This is a paragraph that has emphasized text. Really !! I love pretext. Sine is written .   A frog   A nice-looking frog with a longish description.    Bar:   "
 },
 {
   "id": "subsection-1-4",
